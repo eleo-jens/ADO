@@ -69,7 +69,6 @@ namespace WAD22_ADO_Console
                 //    }
                 //}
                 #endregion
-                #endregion
 
                 #region Ordres DML (toujours en Mode Connecté)
                     #region INSERT avec ExecuteNonQuery() : récupération nb de lignes affectées
@@ -122,6 +121,7 @@ namespace WAD22_ADO_Console
 
                     }
                     #endregion
+                #endregion
                 #endregion
 
             }

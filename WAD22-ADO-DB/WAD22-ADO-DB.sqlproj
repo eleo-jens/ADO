@@ -80,6 +80,5 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="WAD22-ADO-DB.publish.xml" />
-    <None Include="WAD22-ADO-DB_1.publish.xml" />
   </ItemGroup>
 </Project>

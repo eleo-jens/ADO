@@ -11,7 +11,7 @@ Post-Deployment Script Template
 */
 
 INSERT INTO [Spectacle]([nom], [description])
-VALUES (N'Inauguration', N'OUverture du théâtre')
+VALUES (N'Inauguration', N'Ouverture du théâtre')
 
 GO
 
